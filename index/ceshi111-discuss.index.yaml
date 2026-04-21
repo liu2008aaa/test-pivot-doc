@@ -1,6 +1,6 @@
 origin_path: discussions/categery_test/ceshi111/
 created: '2026-04-21T13:32:39+08:00'
-last_updated: '2026-04-21T13:32:39+08:00'
+last_updated: '2026-04-21T13:39:34+08:00'
 discussions:
 - path: discussions/categery_test/ceshi111/
   status: open
@@ -8,7 +8,15 @@ discussions:
   - path: 001_liuyu_proposal_0abd4e.md
     summary: ''
     refs: []
+  - path: 002_liuyu_reply_9724ae.md
+    summary: ''
+    refs:
+    - type: from
+      path: discussions/categery_test/ceshi111/001_liuyu_proposal_0abd4e.md
 timeline:
 - time: '2026-04-21T13:32:39+08:00'
   event: liuyu created thread
   file: discussions/categery_test/ceshi111/001_liuyu_proposal_0abd4e.md
+- time: '2026-04-21T13:39:34+08:00'
+  event: liuyu replied
+  file: discussions/categery_test/ceshi111/002_liuyu_reply_9724ae.md
