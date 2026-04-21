@@ -1,0 +1,14 @@
+origin_path: discussions/categery_test/test_thread/
+created: '2026-04-21T11:10:10+08:00'
+last_updated: '2026-04-21T11:10:10+08:00'
+discussions:
+- path: discussions/categery_test/test_thread/
+  status: open
+  files:
+  - path: 001_liuyu_proposal_a5c245.md
+    summary: ''
+    refs: []
+timeline:
+- time: '2026-04-21T11:10:10+08:00'
+  event: liuyu created thread
+  file: discussions/categery_test/test_thread/001_liuyu_proposal_a5c245.md
