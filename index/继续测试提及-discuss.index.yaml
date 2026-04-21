@@ -1,0 +1,19 @@
+origin_path: discussions/categery_test/继续测试提及/
+created: '2026-04-21T17:26:49+08:00'
+last_updated: '2026-04-21T17:26:49+08:00'
+discussions:
+- path: discussions/categery_test/继续测试提及/
+  status: open
+  files:
+  - path: 001_liuyu_proposal_89f37d.md
+    summary: ''
+    refs: []
+timeline:
+- time: '2026-04-21T17:26:49+08:00'
+  event: liuyu created thread
+  file: discussions/categery_test/继续测试提及/001_liuyu_proposal_89f37d.md
+  mention:
+    users:
+    - user: 刘昱
+      open_id: ou_6de589cfddf3f1499f82a9222e5f49aa
+    comments: 为了测试
