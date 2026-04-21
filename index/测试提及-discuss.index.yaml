@@ -17,3 +17,11 @@ timeline:
     - user: 刘昱
       open_id: ou_6de589cfddf3f1499f82a9222e5f49aa
     comments: 为了测试
+- time: '2026-04-21T17:17:15+08:00'
+  event: liuyu mentioned
+  file: discussions/categery_test/测试提及/001_liuyu_proposal_eba6d1.md
+  mention:
+    users:
+    - user: 刘昱
+      open_id: ou_6de589cfddf3f1499f82a9222e5f49aa
+    comments: ddd
