@@ -1,0 +1,14 @@
+origin_path: discussions/categery_test/测试发新帖/
+created: '2026-04-21T13:42:14+08:00'
+last_updated: '2026-04-21T13:42:14+08:00'
+discussions:
+- path: discussions/categery_test/测试发新帖/
+  status: open
+  files:
+  - path: 001_liuyu_proposal_e3c0f3.md
+    summary: ''
+    refs: []
+timeline:
+- time: '2026-04-21T13:42:14+08:00'
+  event: liuyu created thread
+  file: discussions/categery_test/测试发新帖/001_liuyu_proposal_e3c0f3.md
