@@ -1,6 +1,6 @@
 origin_path: discussions/categery_test/测试发新帖/
 created: '2026-04-21T13:42:14+08:00'
-last_updated: '2026-04-21T13:42:14+08:00'
+last_updated: '2026-04-21T13:44:55+08:00'
 discussions:
 - path: discussions/categery_test/测试发新帖/
   status: open
@@ -8,7 +8,15 @@ discussions:
   - path: 001_liuyu_proposal_e3c0f3.md
     summary: ''
     refs: []
+  - path: 002_liuyu_reply_ab93ba.md
+    summary: ''
+    refs:
+    - type: from
+      path: discussions/categery_test/测试发新帖/001_liuyu_proposal_e3c0f3.md
 timeline:
 - time: '2026-04-21T13:42:14+08:00'
   event: liuyu created thread
   file: discussions/categery_test/测试发新帖/001_liuyu_proposal_e3c0f3.md
+- time: '2026-04-21T13:44:55+08:00'
+  event: liuyu replied
+  file: discussions/categery_test/测试发新帖/002_liuyu_reply_ab93ba.md
