@@ -1,0 +1,14 @@
+origin_path: discussions/categery_test/ceshi111/
+created: '2026-04-21T13:32:39+08:00'
+last_updated: '2026-04-21T13:32:39+08:00'
+discussions:
+- path: discussions/categery_test/ceshi111/
+  status: open
+  files:
+  - path: 001_liuyu_proposal_0abd4e.md
+    summary: ''
+    refs: []
+timeline:
+- time: '2026-04-21T13:32:39+08:00'
+  event: liuyu created thread
+  file: discussions/categery_test/ceshi111/001_liuyu_proposal_0abd4e.md
