@@ -1,6 +1,6 @@
 origin_path: discussions/categery_test/test_thread/
 created: '2026-04-21T11:10:10+08:00'
-last_updated: '2026-04-21T11:10:10+08:00'
+last_updated: '2026-04-21T11:11:40+08:00'
 discussions:
 - path: discussions/categery_test/test_thread/
   status: open
@@ -8,7 +8,15 @@ discussions:
   - path: 001_liuyu_proposal_a5c245.md
     summary: ''
     refs: []
+  - path: 002_liuyu_reply_d4485c.md
+    summary: ''
+    refs:
+    - type: from
+      path: discussions/categery_test/test_thread/001_liuyu_proposal_a5c245.md
 timeline:
 - time: '2026-04-21T11:10:10+08:00'
   event: liuyu created thread
   file: discussions/categery_test/test_thread/001_liuyu_proposal_a5c245.md
+- time: '2026-04-21T11:11:40+08:00'
+  event: liuyu replied
+  file: discussions/categery_test/test_thread/002_liuyu_reply_d4485c.md
