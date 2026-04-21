@@ -1,0 +1,19 @@
+origin_path: discussions/新类目/测试提及/
+created: '2026-04-21T13:52:40+08:00'
+last_updated: '2026-04-21T13:52:40+08:00'
+discussions:
+- path: discussions/新类目/测试提及/
+  status: open
+  files:
+  - path: 001_liuyu_proposal_dd2ccf.md
+    summary: ''
+    refs: []
+timeline:
+- time: '2026-04-21T13:52:40+08:00'
+  event: liuyu created thread
+  file: discussions/新类目/测试提及/001_liuyu_proposal_dd2ccf.md
+  mention:
+    users:
+    - user: 刘昱
+      open_id: ou_6de589cfddf3f1499f82a9222e5f49aa
+    comments: 请自己确认这条通知是否收到
