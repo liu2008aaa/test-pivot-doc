@@ -1,19 +1,19 @@
-origin_path: discussions/新类目/测试提及/
-created: '2026-04-21T13:52:40+08:00'
-last_updated: '2026-04-21T13:52:40+08:00'
+origin_path: discussions/categery_test/测试提及/
+created: '2026-04-21T17:15:53+08:00'
+last_updated: '2026-04-21T17:15:53+08:00'
 discussions:
-- path: discussions/新类目/测试提及/
+- path: discussions/categery_test/测试提及/
   status: open
   files:
-  - path: 001_liuyu_proposal_dd2ccf.md
+  - path: 001_liuyu_proposal_eba6d1.md
     summary: ''
     refs: []
 timeline:
-- time: '2026-04-21T13:52:40+08:00'
+- time: '2026-04-21T17:15:53+08:00'
   event: liuyu created thread
-  file: discussions/新类目/测试提及/001_liuyu_proposal_dd2ccf.md
+  file: discussions/categery_test/测试提及/001_liuyu_proposal_eba6d1.md
   mention:
     users:
     - user: 刘昱
       open_id: ou_6de589cfddf3f1499f82a9222e5f49aa
-    comments: 请自己确认这条通知是否收到
+    comments: 为了测试
