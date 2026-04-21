@@ -1,0 +1,14 @@
+origin_path: discussions/新类目/测试新类别/
+created: '2026-04-21T13:46:00+08:00'
+last_updated: '2026-04-21T13:46:00+08:00'
+discussions:
+- path: discussions/新类目/测试新类别/
+  status: open
+  files:
+  - path: 001_liuyu_proposal_78cb67.md
+    summary: ''
+    refs: []
+timeline:
+- time: '2026-04-21T13:46:00+08:00'
+  event: liuyu created thread
+  file: discussions/新类目/测试新类别/001_liuyu_proposal_78cb67.md
