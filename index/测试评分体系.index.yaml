@@ -2,10 +2,10 @@ version: 1
 matter:
   id: 测试评分体系
   title: 测试评分体系
-  current_status: planning
+  current_status: executing
   owner: liuyu
   created_at: '2026-04-30T16:27:56+08:00'
-  updated_at: '2026-04-30T16:27:56+08:00'
+  updated_at: '2026-04-30T16:28:44+08:00'
 timeline:
 - file: discussions/我的测试分类/测试评分体系/001_liuyu_think_7b053d.md
   created_at: '2026-04-30T16:27:56+08:00'
@@ -13,3 +13,13 @@ timeline:
   owner: 40d2510dc95041cfadc971c5fb079287
   type: think
   summary: 本文档初步探讨了测试评分体系的必要性与核心维度，识别了实施中的潜在风险，并提出了后续需要团队对齐的关键问题，旨在为后续方案设计提供思考框架。
+- file: discussions/我的测试分类/测试评分体系/002_liuyu_act_9d6836.md
+  created_at: '2026-04-30T16:28:44+08:00'
+  creator: liuyu
+  owner: 40d2510dc95041cfadc971c5fb079287
+  type: act
+  summary: 本文件制定了测试评分体系的具体实施方案，明确了实施步骤和行动计划，推动评分框架落地执行。
+  quote: discussions/我的测试分类/测试评分体系/001_liuyu_think_7b053d.md
+  status_change:
+    from: planning
+    to: executing
