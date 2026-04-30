@@ -1,0 +1,15 @@
+version: 1
+matter:
+  id: 继续测试评分11
+  title: 继续测试评分11
+  current_status: planning
+  owner: liuyu
+  created_at: '2026-04-30T17:27:03+08:00'
+  updated_at: '2026-04-30T17:27:03+08:00'
+timeline:
+- file: discussions/我的测试分类/继续测试评分11/001_liuyu_think_6f4135.md
+  created_at: '2026-04-30T17:27:03+08:00'
+  creator: liuyu
+  owner: 40d2510dc95041cfadc971c5fb079287
+  type: think
+  summary: 本文针对测试评分体系现存问题，提出短期试点验证、中期工具化、长期看板融合的改进路径，强调评分应成为质量反馈闭环的一部分，为后续迭代提供方向。
