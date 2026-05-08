@@ -1,0 +1,19 @@
+version: 1
+matter:
+  id: 为了测试
+  title: 为了测试
+  current_status: planning
+  owner: liuyu
+  visibility:
+    mode: public
+    roles: []
+    user_ids: []
+  created_at: '2026-05-08T19:39:06+08:00'
+  updated_at: '2026-05-08T19:39:06+08:00'
+timeline:
+- file: discussions/我的测试分类/为了测试/001_liuyu_think_805ae7.md
+  created_at: '2026-05-08T19:39:06+08:00'
+  creator: liuyu
+  owner: liuyu
+  type: think
+  summary: 本文档围绕“为了测试”展开，分析了测试的必要性与常见痛点，提出了分层测试、自动化、环境一致性等策略，并定义了成功标准、风险应对及后续行动步骤，旨在为测试工作提供清晰的指导框架。
