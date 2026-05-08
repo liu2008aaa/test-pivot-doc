@@ -9,7 +9,7 @@ matter:
     roles: []
     user_ids: []
   created_at: '2026-05-08T19:39:06+08:00'
-  updated_at: '2026-05-08T19:43:07+08:00'
+  updated_at: '2026-05-08T19:44:29+08:00'
 timeline:
 - file: discussions/我的测试分类/为了测试/001_liuyu_think_805ae7.md
   created_at: '2026-05-08T19:39:06+08:00'
@@ -23,4 +23,11 @@ timeline:
   owner: liuyu
   type: think
   summary: 文档未提供文字内容，故无核心结论。
+  quote: discussions/我的测试分类/为了测试/001_liuyu_think_805ae7.md
+- file: discussions/我的测试分类/为了测试/003_liuyu_think_d9aed7.md
+  created_at: '2026-05-08T19:44:29+08:00'
+  creator: liuyu
+  owner: liuyu
+  type: think
+  summary: '[新建 DOCX 文档.docx](attachment://att_btgkYNOwI_0G)'
   quote: discussions/我的测试分类/为了测试/001_liuyu_think_805ae7.md
