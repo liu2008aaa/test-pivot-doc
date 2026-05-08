@@ -5,7 +5,7 @@ matter:
   current_status: planning
   owner: liuyu
   created_at: '2026-04-30T17:27:03+08:00'
-  updated_at: '2026-05-06T20:05:47+08:00'
+  updated_at: '2026-05-08T19:18:06+08:00'
 timeline:
 - file: discussions/我的测试分类/继续测试评分11/001_liuyu_think_6f4135.md
   created_at: '2026-04-30T17:27:03+08:00'
@@ -34,3 +34,10 @@ timeline:
   type: think
   summary: 本文在试点方案基础上，细化评分刻度、客观指标融合与流程嵌入点的具体设计，并探讨再评分机制的启动条件，推动评分体系从理论走向可执行。
   quote: discussions/我的测试分类/继续测试评分11/003_liuyu_think_018fc1.md
+- file: discussions/我的测试分类/继续测试评分11/005_liuyu_think_968c66.md
+  created_at: '2026-05-08T19:18:06+08:00'
+  creator: liuyu
+  owner: liuyu
+  type: think
+  summary: 测试附件上传功能，验证图片和文档文件的上传操作。
+  quote: discussions/我的测试分类/继续测试评分11/002_liuyu_think_e06b98.md
