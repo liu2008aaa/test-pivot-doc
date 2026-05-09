@@ -9,7 +9,7 @@ matter:
     roles: []
     user_ids: []
   created_at: '2026-05-08T20:58:44+08:00'
-  updated_at: '2026-05-09T09:58:44+08:00'
+  updated_at: '2026-05-09T17:45:14+08:00'
 timeline:
 - file: discussions/我的测试分类/新的帖子用于测试附件功能/001_liuyu_think_79def5.md
   created_at: '2026-05-08T20:58:44+08:00'
@@ -24,3 +24,10 @@ timeline:
   type: think
   summary: 附件功能已有初步测试成果，可参考"继续测试评分11"中的测试案例完善测试计划。
   quote: discussions/我的测试分类/新的帖子用于测试附件功能/001_liuyu_think_79def5.md
+- file: discussions/我的测试分类/新的帖子用于测试附件功能/003_liuyu_think_689700.md
+  created_at: '2026-05-09T17:45:14+08:00'
+  creator: liuyu
+  owner: liuyu
+  type: think
+  summary: 为了测试附件的
+  quote: discussions/我的测试分类/新的帖子用于测试附件功能/002_liuyu_think_9576c7.md
