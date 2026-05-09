@@ -1,0 +1,25 @@
+version: 1
+matter:
+  id: 附件功能测试方案讨论
+  title: 附件功能测试方案讨论
+  current_status: planning
+  owner: liuyu
+  workgroup:
+  - user_id: liuyu
+    role: 项目负责人
+    is_owner: true
+    added_at: '2026-05-09T17:49:18+08:00'
+    added_by: liuyu
+  visibility:
+    mode: public
+    roles: []
+    user_ids: []
+  created_at: '2026-05-09T17:49:18+08:00'
+  updated_at: '2026-05-09T17:49:18+08:00'
+timeline:
+- file: discussions/我的测试分类/附件功能测试方案讨论/001_liuyu_think_749020.md
+  created_at: '2026-05-09T17:49:18+08:00'
+  creator: liuyu
+  owner: liuyu
+  type: think
+  summary: 围绕附件上传功能的测试范围、验收标准与分工进行讨论，形成可执行的测试清单与报告模板，推动功能稳定上线。
